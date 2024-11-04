@@ -1,0 +1,90 @@
+
+
+.dynapuff-uniquifier {
+    color:lightseagreen;
+    text-align:center;
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+header{
+ background-color:rgb(9, 6, 61);
+ position: relative;
+ height: 300px;
+}
+nav{
+    position: absolute;
+    left: 510px;
+    top: 200px
+    
+}
+
+nav li{
+    display: inline;
+    margin: 5px;
+
+}
+
+body{
+    
+    background-color: rgb(21, 16, 109);
+}
+footer{
+    background-color: rgb(9, 6, 61);
+
+}
+
+h1{ 
+    position: absolute;
+    left: 600px;
+}
+h2{ 
+    color: lightseagreen;
+   
+}
+h3{
+    color: lightseagreen;
+    
+}
+h5{
+    color: lightseagreen;
+}
+
+.practicando{ 
+    
+    color:rgb(100, 223, 151);
+}
+   
+.img{
+    
+    width: 100px;
+    
+}
+.card{
+    background-color: blue;
+    width: 200px;
+    border: 2px solid black; 
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+img{
+    max-width: 100%;
+    
+    
+}
+p{
+    color:rgb(100, 223, 151);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contenedor_limite{
+    background-color: rgb(21, 16, 125);
+    max-width: 400px;
+    margin: auto;
+    
+}
+a{ color:rgb(0, 255, 106)}
